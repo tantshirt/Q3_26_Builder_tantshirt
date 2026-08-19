@@ -6,3 +6,18 @@ node_modules
 test-ledger
 .yarn
 .surfpool
+
+# keys and secrets
+id.json
+*-keypair.json
+.env
+.env.*
+
+# my stuff, not theirs
+notes/
+*cheat*sheet*
+*.pdf
+CLAUDE.md
+scratch/
+*.mov
+*.mp4
